@@ -14,7 +14,6 @@ You are required to help the manager to predict the right group of the new custo
 <img width="686" height="724" alt="image" src="https://github.com/user-attachments/assets/cde60480-b84c-4dde-bf12-de247b7d874c" />
 
 ## DESIGN STEPS
-## DESIGN STEPS
 ### STEP 1:
 
 Load the dataset, remove irrelevant columns (ID), handle missing values, encode categorical features using Label Encoding, and encode the target class (Segmentation).
