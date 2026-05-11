@@ -48,7 +48,7 @@ Evaluate the trained model on test data using accuracy, confusion matrix, and cl
 
 ### Register Number:212223230156
 
-```
+```python
 import torch
 import torch.nn as nn
 import torch.optim as optim
